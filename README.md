@@ -20,32 +20,35 @@ Many other types of GANs exist as well. Some switch out the type of models that 
 I actually wrote a whole article aobut this! [Check it out](https://medium.com/swlh/creating-a-human-that-never-existed-65d046fe8cb3)!
 
 ## The Good Stuff
-Now what we're all here for: GIFs & Code!
+Now what we're all here for: GIFs!
 
 <p align="center">
-<img src="" width="350"/>
+<img src="readme_pics/MNIST.gif" width="350"/><br/>
+MNIST
 </p>
-MNIST:
+
 
 <p align="center">
-<img src="" width="350"/>
+<img src="readme_pics/CIFAR10.gif" width="350"/><br/>
+CIFAR10
 </p>
-CIFAR10:
+
 
 <p align="center">
-<img src="" width="350"/>
+<img src="readme_pics/Fashion MNIST.gif" width="350"/><br/>
+Fashion MNIST
 </p>
-Fashion MNIST:
 
 <p align="center">
-<img src="" width="350"/>
+<img src="readme_pics/Faces.gif" width="350"/><br/>
+CelebA
 </p>
-CelebA:
+
 
 <p align="center">
-<img src="" width="350"/>
+<img src="" width="350"/><br/>
+Pokemon
 </p>
-Pokemon:
 
 ## Acknowledgements
 
