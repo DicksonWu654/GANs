@@ -4,6 +4,10 @@ Hi There! 👋<br/>
 This is a repo where you have access to all the Jupiter Notebooks, along with some resources that made it all possible!<br/>
 
 ## Table of Contents
+* [What are GANs?](## What are GANs?)
+* [The Good Stuff](## The Good Stuff)
+* [Acknowledgements](## Acknowledgements)
+* [Connect with me](## Connect with me)
 
 ## What are GANs?
 
