@@ -50,16 +50,27 @@ CelebA
 
 
 <p align="center">
-<img src="" width="350"/><br/>
+<img src="readme_pics/Pokemon.gif" width="350"/><br/>
 Pokemon
+</p>
+
+<p align="center">
+<img src="readme_pics/Dogcolor.png" width="350"/><br/>
+Oxford-IIIT Pet
+</p>
+
+<p align="center">
+<img src="readme_pics/Feedcolor.png" width="350"/><br/>
+Food-101
 </p>
 
 ## Acknowledgements
 
-I found these resources extremely useful:
-
-* [Name](link)
-* [Name](link)
+* [Original GANs Paper](https://arxiv.org/abs/1406.2661)
+* [FastAI GANs](https://docs.fast.ai/vision.gan.html)
+* [Different GAN Implementations](https://github.com/eriklindernoren/PyTorch-GAN)
+* [DeOldify](https://www.fast.ai/2019/05/03/decrappify/)
+* [The awesome guy who told me how important READMEs are](https://www.linkedin.com/in/aleksagordic/)
 
 
 ## Connect with me
