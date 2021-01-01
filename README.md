@@ -17,7 +17,7 @@ This is a repo where you have access to all the Jupiter Notebooks, along with so
 ### A Longer Explanation:
 GANs were originally proposed by Ian Goodfellow et al. in their paper: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661). It's a facinating and quite powerful system that took the machine learning community by storm. We often see them in action whenever we come across a deepfake, or generated images. 
 
-It works by having 2 models, G(enerator) and D(escriminator), going against each other. The G model's loss function (for backprobagation) is dependent on the performance of the D model. Thus, in order to minimize it's own loss, it tries to maximize the loss of the other model. The same is true for the D model. This causes both models, which are randomly initialized at the start, to become very good at their tasks in a short amount of time. 
+It works by having 2 models, G(enerator) and D(escriminator), going against each other. The G model's loss function (for backpropagation) is dependent on the performance of the D model. Thus, in order to minimize it's own loss, it tries to maximize the loss of the other model. The same is true for the D model. This causes both models, which are randomly initialized at the start, to become very good at their tasks in a short amount of time. 
 
 Many other types of GANs exist as well. Some switch out the type of models that are used (DCGANs), while others rearange the whole architecture of the GAN (CycleGANs). 
 
