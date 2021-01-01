@@ -12,7 +12,7 @@ This is a repo where you have access to all the Jupiter Notebooks, along with so
 ## What are GANs?
 
 ### TL;DR 
-2 neural networks that constantly duke it out with each other in order to generate better and better content.
+2 neural networks that constantly duke it out with each other, in order to generate better and better content.
 
 ### A Longer Explanation:
 GANs were originally proposed by Ian Goodfellow et al. in their paper: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661). It's a facinating and quite powerful system that took the machine learning community by storm. We often see them in action whenever we come across a deepfake, or generated images. 
