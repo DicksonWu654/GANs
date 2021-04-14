@@ -21,7 +21,7 @@ It works by having 2 models, G(enerator) and D(escriminator), going against each
 
 Many other types of GANs exist as well. Some switch out the type of models that are used (DCGANs), while others rearange the whole architecture of the GAN (CycleGANs). 
 
-I actually wrote a whole article aobut this! [Check it out](https://medium.com/swlh/creating-a-human-that-never-existed-65d046fe8cb3)!
+I actually wrote a whole article aobut this! [Check it out](https://medium.com/swlh/creating-a-human-that-never-existed-65d046fe8cb3)! Also check out my [Video!](https://youtu.be/5aSTm7KB4uU)
 
 ## The Good Stuff
 Now what we're all here for: GIFs!
